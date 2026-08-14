@@ -1,4 +1,4 @@
-# Hi, I'm Nav 👋
+# Hi, I'm Naveena 👋
 
 I'm a Product Implementation Engineer with a customer-focused background, working across SaaS implementation, technical support, integrations, and workflow automation.
 
